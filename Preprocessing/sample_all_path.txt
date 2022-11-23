@@ -1,0 +1,7 @@
+50001	C:/Users/user/Desktop/dataset/50001/sample_00/S164623/50001_MRI_raw_20120830172854796_8631.nii
+50002	C:/Users/user/Desktop/dataset/50002/sample_00/S164416/50002_MRI_raw_20120830155445855_410.nii
+50003	C:/Users/user/Desktop/dataset/50003/sample_00/S164726/50003_MRI_raw_20120830181140636_736.nii
+50004	C:/Users/user/Desktop/dataset/50004/sample_00/S165234/50004_MRI_raw_20120830220635982_244.nii
+50005	C:/Users/user/Desktop/dataset/50005/sample_00/S165414/50005_MRI_raw_20120830234259859_424.nii
+50006	C:/Users/user/Desktop/dataset/50006/sample_00/S165121/50006_MRI_raw_20120830205554190_131.nii
+50007	C:/Users/user/Desktop/dataset/50007/sample_00/S164971/50007_MRI_raw_20120830194128385_981.nii
