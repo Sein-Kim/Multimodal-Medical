@@ -3,6 +3,9 @@
 ### Overview
 Routine clinical visits of a patient produce not only image data, but also non-image data containing clinical information regarding the patient, i.e., medical data is multi-modal in nature. Such heterogeneous modalities offer different and complementary perspectives on the same patient, resulting in more accurate clinical decisions when they are properly combined. However, despite its significance, how to effectively fuse the multi-modal medical data into a unified framework has received relatively little attention. In this paper, we propose an effective graph-based framework called HetMed (Heterogeneous Graph Learning for Multi-modal Medical Data Analysis) for fusing the multi-modal medical data. Specifically, we construct a multiplex network that incorporates multiple types of non-image features of patients to capture the complex relationship between patients in a systematic way, which leads to more accurate clinical decisions. Extensive experiments on various real-world datasets demonstrate the superiority and practicality of HetMed. 
 
+<img width="400" alt="figure" src="https://user-images.githubusercontent.com/76777494/219549674-4e550a0a-6a5c-4527-a28d-1f88a1939ab2.png">
+- Multiple modalities of medical data provide different and complementary views of the same patient.
+
 ### Run our framework
 
 - Due to memory and policy problem of datasets, we cannot upload medical image or non-image of datasets.
