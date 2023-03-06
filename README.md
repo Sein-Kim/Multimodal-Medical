@@ -1,5 +1,7 @@
 ## Heterogeneous Graph Learning for Multi-modal Medical Data Analysis
 
+The official source code for [**Heterogeneous Graph Learning for Multi-modal Medical Data Analysis**](https://arxiv.org/abs/2211.15158) paper, accepted at AAAI 2023.
+
 ### Overview
 Routine clinical visits of a patient produce not only image data, but also non-image data containing clinical information regarding the patient, i.e., medical data is multi-modal in nature. Such heterogeneous modalities offer different and complementary perspectives on the same patient, resulting in more accurate clinical decisions when they are properly combined. However, despite its significance, how to effectively fuse the multi-modal medical data into a unified framework has received relatively little attention. In this paper, we propose an effective graph-based framework called HetMed (Heterogeneous Graph Learning for Multi-modal Medical Data Analysis) for fusing the multi-modal medical data. Specifically, we construct a multiplex network that incorporates multiple types of non-image features of patients to capture the complex relationship between patients in a systematic way, which leads to more accurate clinical decisions. Extensive experiments on various real-world datasets demonstrate the superiority and practicality of HetMed. 
 
@@ -25,3 +27,17 @@ python main.py --data abide --methapath type0,type1,type2,type3 --isSemi --isAtt
 cd MultiplexNetwork
 python main.py --data cmmd --methapath type0,type1,type2,type3 --isSemi --isAttn --patience 20 --sup_coef 0.01
 </code></pre>
+
+
+### Cite (Bibtex)
+- If you find ``AFGRL`` useful in your research, please cite the following paper:
+  - Lee, Namkyeong, Junseok Lee, and Chanyoung Park. "Augmentation-Free Self-Supervised Learning on Graphs." AAAI 2022.
+  - Bibtex
+```
+@article{kim2022heterogeneous,
+  title={Heterogeneous Graph Learning for Multi-modal Medical Data Analysis},
+  author={Kim, Sein and Lee, Namkyeong and Lee, Junseok and Hyun, Dongmin and Park, Chanyoung},
+  journal={arXiv preprint arXiv:2211.15158},
+  year={2022}
+}
+```
