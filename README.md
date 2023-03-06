@@ -30,7 +30,6 @@ python main.py --data cmmd --methapath type0,type1,type2,type3 --isSemi --isAttn
 
 
 ### Cite (Bibtex)
-- If you find ``HetMed`` useful in your research, please cite the following paper:
   - Bibtex
 ```
 @article{kim2022heterogeneous,
