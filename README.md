@@ -30,7 +30,7 @@ python main.py --data cmmd --methapath type0,type1,type2,type3 --isSemi --isAttn
 
 
 ### Cite (Bibtex)
-- Please refer the following paer, if you fine HetMed useful in your research:
+- Please refer the following paer, if you find HetMed useful in your research:
   - Kim, Sein and Lee, Namkyeong and Lee, Junseok and Hyun, Dongmin and Park, Chanyoung. "Heterogeneous Graph Learning for Multi-modal Medical Data Analysis" AAAI 2023.
   - Bibtex
 ```
